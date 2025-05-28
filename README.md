@@ -63,5 +63,5 @@ Donut Charts, Bar Charts, Line Charts
 Conditional Formatting for KPIs
 
 # DASHBOARD
-<a href="https://github.com/Priya1864/ROAD-ACCIDENT-CASUALITES/blob/main/ROAD%20CASUALTIES.png">"DATASET"</a>
+<a href="https://github.com/Priya1864/ROAD-ACCIDENT-CASUALITES/blob/main/ROAD%20CASUALTIES.png">"DASHBOARD"</a>
 
