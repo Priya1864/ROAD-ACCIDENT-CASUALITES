@@ -30,3 +30,34 @@ Bicycle accidents are relatively high: 3,955 casualties.
 Goods vehicles and buses show lower but still notable casualty numbers.
 
 December shows a slight drop in accident numbers compared to other months.
+#  Recommendations:
+Urban Safety Focus:
+
+Implement stricter road safety measures in urban zones.
+
+Target Single Carriageways:
+
+Conduct infrastructure audits and add safety signs or dividers.
+
+Awareness Campaigns for Car and Bicycle Users:
+
+Car and bicycle accidents are notably high — promote traffic rules and safety.
+
+Improve Road Safety in Daylight:
+
+Despite clear visibility, most accidents happen in daylight. Reinforce speed limits and monitor distractions.
+
+Regular Monitoring:
+
+Maintain year-wise dashboards to monitor trends and assess improvements.
+
+# Tools Used:
+Excel Dashboard
+
+Pivot Tables
+
+Slicers (Year and Area Filters)
+
+Donut Charts, Bar Charts, Line Charts
+
+Conditional Formatting for KPIs
